@@ -1,0 +1,7 @@
+@url = threebot.todo_list.item.1
+title = (S)
+done = false (B)
+description = (S)
+last_updated = (T)
+time_created = (T)
+deadline = (T)

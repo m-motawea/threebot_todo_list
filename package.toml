@@ -1,0 +1,11 @@
+[source]
+name = "todolist"
+description = ""
+threebot = "threebot"
+version = "1.0.0"
+
+[[bcdbs]]
+name = "threebot_todolist"
+namespace = "threebot_todolist"
+type = "zdb"
+instance = "default"
