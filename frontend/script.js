@@ -120,7 +120,7 @@ $(document).ready(function(){
         type: "GET",
         async: false,
         success: function(data) {
-            for (item of data.items) {
+            for (item of data) {
                 var html = `
                 <tr id="item:${item.id}">
                 <td>${item.id}</td>
